@@ -29,4 +29,4 @@ del Utilman.exe
 ren Utilman1.exe Utilman.exe
 ```
 
-Should work on all versions of visons including windows 11
+Should work on all versions of versions including windows 11
